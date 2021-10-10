@@ -28,10 +28,7 @@ Audio provided by [patrickdearteaga] (https://patrickdearteaga.com/chiptune-8-bi
 
 Sound Effect provided by Hyunbin Park
 
-Shaders provided by [Godot Shaders] 
-
-(https://godotshaders.com/shader/stars-shader/)
-(https://godotshaders.com/shader/energy-beams/)
+Shaders provided by [Godot Shaders] (https://godotshaders.com/shader/stars-shader/) (https://godotshaders.com/shader/energy-beams/)
 
 ## Future Development
 None
