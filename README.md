@@ -14,6 +14,7 @@ Aliens are attacking our universe. Would you run away or save the world by crush
 - Make the elemetns rotate when they are matched
 - Add shaders
 - Add fonts
+- Add background image
 
 
 ## References
